@@ -1,9 +1,9 @@
 # Crossant
 **"Crossant"** is **Lightning Fast** and *Sturdy* *Crossed Gantry* Printer with **Reasonable BOM** and "easy to reach" alternative options to build one. Will be available at the end of the Q4 2023 with 235x235 and 180x180 bed size options. 
 
-> ||> *PS. She's crispy and hot! * :peheart: ||
-> 
-> **Costs around 600$**, with **Triple Z** and **4 XY** Motors
+PS. She's crispy and hot!
+ 
+ **Costs around 600$**, with **Triple Z** and **4 XY** Motors
 
 Discord: https://discord.gg/aQXhqzdWPY
 Web: https://poleengineering.com/
