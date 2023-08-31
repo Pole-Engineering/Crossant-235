@@ -1,6 +1,12 @@
 # Crossant
-Cheapest and fastest possible crossed gantry 3d printer
+**"Crossant"** is **Lightning Fast** and *Sturdy* *Crossed Gantry* Printer with **Reasonable BOM** and "easy to reach" alternative options to build one. Will be available at the end of the Q4 2023 with 235x235 and 180x180 bed size options. 
 
+> ||> *PS. She's crispy and hot! * :peheart: ||
+> 
+> **Costs around 600$**, with **Triple Z** and **4 XY** Motors
+
+Discord: https://discord.gg/aQXhqzdWPY
+Web: https://poleengineering.com/
 
 This project is licensed as:
 ![image](https://github.com/Pole-Engineering/Crossant/assets/53056781/04779349-c882-4f3e-9eb7-889ec14c9426)
