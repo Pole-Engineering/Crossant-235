@@ -2,7 +2,7 @@
 ![image](https://github.com/Pole-Engineering/Crossant-235/assets/53056781/4c8d9231-499e-4f6d-8cd6-3dce51f5f870)
 
 # What's this?
-It's crossant, an affordable 3d printer with lots of configuration options to make it accessible for everyone. Currently on closed beta which you can join it from [Discord](https://discord.gg/poleengineering) server!
+It's crossant, an affordable 3d printer with lots of configuration options to make it accessible for everyone. Currently on closed beta which you can join from [Discord](https://discord.gg/poleengineering) server!
 
 # When is it going to be released?
 January, 2024.
