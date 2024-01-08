@@ -15,6 +15,7 @@ X: https://x.com/poleengineering
 
 # Is there a BOM yet?
 Yeah, there is: https://docs.google.com/spreadsheets/d/1u00vXnCiODAP5KC5nTiRgINJnbgC2SU4T4h_pg1mv24/edit#gid=0
+
 This project is licensed as:
 ![image](https://github.com/Pole-Engineering/Crossant/assets/53056781/04779349-c882-4f3e-9eb7-889ec14c9426)
 https://creativecommons.org/licenses/by-nc/4.0/
