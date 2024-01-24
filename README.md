@@ -4,8 +4,10 @@
 # What's this?
 It's crossant, an affordable 3d printer with lots of configuration options to make it accessible for everyone. Currently on closed beta which you can join from [Discord](https://discord.gg/poleengineering) server!
 https://github.com/Pole-Engineering
-# When is it going to be released?
-January, 2024.
+# Important links:
+Docs: https://docs.pole.engineering (WIP)
+Discord: https://discord.gg/poleengineering
+BOM: https://docs.google.com/spreadsheets/d/1u00vXnCiODAP5KC5nTiRgINJnbgC2SU4T4h_pg1mv24/edit#gid=0
 
 # Socials
 Discord: https://discord.gg/aQXhqzdWPY
@@ -13,8 +15,9 @@ Web: https://pole.engineering/
 Instagram: https://instagram.com/poleengineering
 X: https://x.com/poleengineering
 
-# Is there a BOM yet?
+# Where can i access BOM?
 Yeah, there is: https://docs.google.com/spreadsheets/d/1u00vXnCiODAP5KC5nTiRgINJnbgC2SU4T4h_pg1mv24/edit#gid=0
+
 
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
