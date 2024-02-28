@@ -1,4 +1,3 @@
-![crossant](https://media.discordapp.net/attachments/1100473305812705300/1193606787958571058/sidepackgantrybelted.PNG)
 ![image](https://github.com/Pole-Engineering/Crossant-235/assets/53056781/4c8d9231-499e-4f6d-8cd6-3dce51f5f870)
 
 # What's this?
@@ -10,13 +9,23 @@ Discord: https://discord.gg/poleengineering
 BOM: https://docs.google.com/spreadsheets/d/1u00vXnCiODAP5KC5nTiRgINJnbgC2SU4T4h_pg1mv24/edit#gid=0
 
 # Socials
-Discord: https://discord.gg/aQXhqzdWPY
+Discord: https://discord.gg/aQXhqzdWPY && https://discord.gg/poleengineering
 Web: https://pole.engineering/
 Instagram: https://instagram.com/poleengineering
 X: https://x.com/poleengineering
 
 # Where can i access BOM?
 Yeah, there is: https://docs.google.com/spreadsheets/d/1u00vXnCiODAP5KC5nTiRgINJnbgC2SU4T4h_pg1mv24/edit#gid=0
+
+# Huge thanks and credits to:
+
+Ocho Camino [Ice Cream Factory Discord](https://discord.gg/z9FmEpvTx3)
+Deadlock
+Iamthesoy
+polygorg
+Caza
+LH [LH Stinger Discord](https://discord.gg/UBpmeDwvMc)
+Zughal [Tsuarisu Discord](https://discord.gg/HnQ6rQJrPV)
 
 
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
