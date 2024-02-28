@@ -20,11 +20,11 @@ Yeah, there is: https://docs.google.com/spreadsheets/d/1u00vXnCiODAP5KC5nTiRgINJ
 # Huge thanks and credits to:
 
 Ocho Camino [Ice Cream Factory Discord](https://discord.gg/z9FmEpvTx3)
-Deadlock
-Iamthesoy
-polygorg
-Caza
-LH [LH Stinger Discord](https://discord.gg/UBpmeDwvMc)
+Deadlock,
+Iamthesoy,
+polygorg,
+Caza,
+LH [LH Stinger Discord](https://discord.gg/UBpmeDwvMc),
 Zughal [Tsuarisu Discord](https://discord.gg/HnQ6rQJrPV)
 
 
