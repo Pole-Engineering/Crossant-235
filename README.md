@@ -9,14 +9,24 @@ Docs: https://docs.pole.engineering (WIP)
 Discord: https://discord.gg/poleengineering
 BOM: https://docs.google.com/spreadsheets/d/1u00vXnCiODAP5KC5nTiRgINJnbgC2SU4T4h_pg1mv24/edit#gid=0
 
+<<<<<<< Updated upstream
 # Socials
 Discord: https://discord.gg/aQXhqzdWPY
+=======
+# Socials:
+Discord: https://discord.gg/aQXhqzdWPY && https://discord.gg/poleengineering
+>>>>>>> Stashed changes
 Web: https://pole.engineering/
 Instagram: https://instagram.com/poleengineering
 X: https://x.com/poleengineering
 
+# Input shaper graphs:
+
+[shaper_x](./assets/shaper_calibrate_x-dr_0.png)
+[shaper_y](./assets/shaper_calibrate_y-dr_0.png)
+
 # Where can i access BOM?
-Yeah, there is: https://docs.google.com/spreadsheets/d/1u00vXnCiODAP5KC5nTiRgINJnbgC2SU4T4h_pg1mv24/edit#gid=0
+There it is: https://docs.google.com/spreadsheets/d/1u00vXnCiODAP5KC5nTiRgINJnbgC2SU4T4h_pg1mv24/edit#gid=0
 
 
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
