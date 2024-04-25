@@ -4,4 +4,4 @@ You will encounter files containing XY joint and shaft support designs with five
 ### Printed Part
 ![image](../../assets/tolerance_test.png)
 
-The bearing needs to fit into one of the holes in the part with a press fit, so it should not be loose, and you should use all of your strength.
+The bearing needs to fit into one of the holes in the part with a press fit, so it should not be loose, and they should be a hard to do pressfit.
