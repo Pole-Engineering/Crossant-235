@@ -1,1 +1,1 @@
-[beltedz](![image](../../../../assets/beltedz.png)) 
+![image](../../../../assets/beltedz.png)
