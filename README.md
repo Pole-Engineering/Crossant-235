@@ -20,8 +20,8 @@ X: https://x.com/poleengineering
 
 # Input shaper graphs:
 
-![image](./assets/shaper_calibrate_x-dr_0.png)
-![image](./assets/shaper_calibrate_y-dr_0.png)
+![image](./assets/shapers.png)
+
 
 # Where can i access BOM?
 
