@@ -13,7 +13,7 @@ BOM: https://docs.google.com/spreadsheets/d/1u00vXnCiODAP5KC5nTiRgINJnbgC2SU4T4h
 
 # Socials:
 
-Discord: https://discord.gg/aQXhqzdWPY && https://discord.gg/poleengineering
+Discord: https://discord.gg/poleengineering
 Web: https://pole.engineering/
 Instagram: https://instagram.com/poleengineering
 X: https://x.com/poleengineering
