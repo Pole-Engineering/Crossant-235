@@ -1,8 +1,6 @@
-# Exhaust
+# Exhaust Filter
 We recommend using HEPA and activated carbon filters for the exhaust.
 
-![image](../../assets/exhaust/exhaust1.png) 
-![image](../../assets/exhaust/exhaust2.png) 
 ![image](../../assets/exhaust/exhaust3.png) 
 
 # Multicolor Print
