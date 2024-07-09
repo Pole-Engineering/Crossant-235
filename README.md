@@ -3,7 +3,6 @@
 Crossant235 is an affordable 3d printer with lots of configuration options to make it accessible for everyone. Currently on open beta which you can join from our [Discord](https://discord.gg/poleengineering) server!
 
 ![image](./assets/specchart.png)
-<a href="https://buymeacoffee.com/poleengineering"><img src="https://github.com/Pole-Engineering/Crossant-235/assets/53056781/0cf38f5c-89cf-49b5-8a19-1cc1ca4d6073" alt="HTML tutorial"></a>
 
 ## Bill of Material:
 The project is still in open beta, so there may be changes to the BOM. Please make sure to check the BOM. Click [here](https://docs.google.com/spreadsheets/d/1u00vXnCiODAP5KC5nTiRgINJnbgC2SU4T4h_pg1mv24/edit?gid=0#gid=0) to acces the BOM.
@@ -21,6 +20,12 @@ You can acces our socials by clicking the buttons below.
 
 <a href='http://discord.gg/poleengineering' target='_blank'><img height='46' style='border:0px;height:44px;' src='./assets/socials/discordbutton.png' border='0' alt='Discord' /></a>
 <a href='https://x.com/poleengineering' target='_blank'><img height='46' style='border:0px;height:44px;' src='./assets/socials/xbutton.png' border='0' alt='X' /></a> <a href='https://www.instagram.com/poleengineering/' target='_blank'><img height='46' style='border:0px;height:44px;' src='./assets/socials/instagrambutton.png' border='0' alt='Instagram' /></a> 
+
+
+## Support
+You can support us by clicking the button below.
+
+<a href='https://www.buymeacoffee.com/poleengineering' target='_blank'><img height='46' style='border:0px;height:44px;' src='./assets/bmc.png' border='0' alt='Buy me a cofe' /></a>
 
 
 ### Huge thanks and credits to:
