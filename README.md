@@ -1,6 +1,6 @@
-# What's Crossant?
+# Crossant 235
 
-Crossant235 is an affordable 3d printer with lots of configuration options to make it accessible for everyone. Currently on open beta which you can join from our [Discord](https://discord.gg/poleengineering) server!
+Crossant is an affordable 3d printer with lots of configuration options to make it accessible for everyone. Currently on open beta which you can join from our [Discord](https://discord.gg/poleengineering) server!
 
 ![image](./assets/specchart.png)
 
