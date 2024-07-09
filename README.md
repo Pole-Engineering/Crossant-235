@@ -7,7 +7,7 @@ Crossant235 is an affordable 3d printer with lots of configuration options to ma
 ## Bill of Material:
 The project is still in open beta, so there may be changes to the BOM. Please make sure to check the BOM. Click [here](https://docs.google.com/spreadsheets/d/1u00vXnCiODAP5KC5nTiRgINJnbgC2SU4T4h_pg1mv24/edit?gid=0#gid=0) to acces the BOM.
 
-## Input shaper graphs:
+## Input Shaper Graphs:
 
 ![image](./assets/shapers.png)
 
@@ -28,7 +28,7 @@ You can support us by clicking the button below.
 <a href='https://www.buymeacoffee.com/poleengineering' target='_blank'><img height='46' style='border:0px;height:44px;' src='./assets/bmc.png' border='0' alt='Buy me a cofe' /></a>
 
 
-### Huge thanks and credits to:
+### Huge Thanks and Credits to:
 
 - Ocho Camino [Ice Cream Factory Discord](https://discord.gg/z9FmEpvTx3) 
 -  Deadlock
