@@ -2,8 +2,8 @@
 
 Crossant is an affordable 3d printer with lots of configuration options to make it accessible for everyone. Currently on open beta which you can join from our [Discord](https://discord.gg/poleengineering) server!
 
-![image](../Crossant-235/assets/specchart.png)
-<a href="https://buymeacoffee.com/poleengineering"><img src="https://github.com/Pole-Engineering/Crossant-235/blob/main/assets/socials/specchart.png" alt="HTML tutorial"></a>
+![image](https://github.com/Pole-Engineering/Crossant-235/blob/main/assets/socials/specchart.png)https://github.com/Pole-Engineering/Crossant-235/assets/53056781/0cf38f5c-89cf-49b5-8a19-1cc1ca4d6073
+<a href="https://buymeacoffee.com/poleengineering"><img src="https://github.com/Pole-Engineering/Crossant-235/assets/53056781/0cf38f5c-89cf-49b5-8a19-1cc1ca4d6073" alt="HTML tutorial"></a>
 
 ## Bill of Material:
 The project is still in open beta, so there may be changes to the BOM. Please make sure to check the BOM. Click [here](https://docs.google.com/spreadsheets/d/1u00vXnCiODAP5KC5nTiRgINJnbgC2SU4T4h_pg1mv24/edit?gid=0#gid=0) to acces the BOM.
