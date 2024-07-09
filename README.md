@@ -30,13 +30,10 @@ You can support us by clicking the button below.
 
 ### Huge Thanks and Credits to:
 
+- Bob
 - Ocho Camino [Ice Cream Factory Discord](https://discord.gg/z9FmEpvTx3) 
--  Deadlock
-- Iamthesoy
-- polygorg
-- Caza
+- Deadlock
 - LH [LH Stinger Discord](https://discord.gg/UBpmeDwvMc)
-- Zughal [Tsuarisu Discord](https://discord.gg/HnQ6rQJrPV)
 
 
 ## License
