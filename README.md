@@ -18,7 +18,7 @@ Our website is still work in progress. You can click [here](https://pole.enginee
 ## Socials:
 You can acces our socials by clicking the buttons below.
 
-<a href='http://discord.gg/poleengineering' target='_blank'><img height='46' style='border:0px;height:44px;' src='./assets/socials/discordbutton.png' border='0' alt='Discord' /></a>
+<a href='https://discord.gg/DQtFRPkDMW' target='_blank'><img height='46' style='border:0px;height:44px;' src='./assets/socials/discordbutton.png' border='0' alt='Discord' /></a>
 <a href='https://x.com/poleengineering' target='_blank'><img height='46' style='border:0px;height:44px;' src='./assets/socials/xbutton.png' border='0' alt='X' /></a> <a href='https://www.instagram.com/poleengineering/' target='_blank'><img height='46' style='border:0px;height:44px;' src='./assets/socials/instagrambutton.png' border='0' alt='Instagram' /></a> 
 
 
