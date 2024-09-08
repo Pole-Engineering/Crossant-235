@@ -9,12 +9,12 @@ Crossant's kinematic z system is based on [maxwell kinematic coupling](https://e
 There are two options for the rear z idler, short and long, you will need to choose one depending on your hotend
 
 Long Idler:
-Goliath
-Rapido UHF
-Dragon UHF
+Goliath,
+Rapido UHF,
+Dragon UHF,
 
 Short Idler:
-Rapido HF
-Dragon HF
-Bambulab Hotend
-NextG Hotend
+Rapido HF,
+Dragon HF,
+Bambulab Hotend,
+NextG Hotend,
