@@ -10,6 +10,7 @@ There are two options for the rear z idler, short and long, you will need to cho
 
 Long Idler:
 Goliath,
+Lancer,
 Rapido UHF,
 Dragon UHF,
 
