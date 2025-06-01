@@ -1,6 +1,6 @@
 # Crossant 235
 
-Crossant is an affordable 3d printer with lots of configuration options to make it accessible for everyone. Currently on open beta which you can join from our [Discord](https://discord.gg/poleengineering) server!
+Crossant is an affordable 3d printer with lots of configuration options to make it accessible for everyone. Currently on open beta which you can join from our [Discord]([https://pole](https://discord.gg/yQWzta3nF3)) server!
 
 ![image](./assets/specchart.png)
 
@@ -12,8 +12,6 @@ The project is still in open beta, so there may be changes to the BOM. Please ma
 ![image](./assets/shapers.png)
 
 
-## Website
-Our website is still work in progress. You can click [here](https://pole.engineering) to check our site.
 
 ## Socials:
 You can acces our socials by clicking the buttons below.
@@ -22,10 +20,7 @@ You can acces our socials by clicking the buttons below.
 <a href='https://x.com/poleengineering' target='_blank'><img height='46' style='border:0px;height:44px;' src='./assets/socials/xbutton.png' border='0' alt='X' /></a> <a href='https://www.instagram.com/poleengineering/' target='_blank'><img height='46' style='border:0px;height:44px;' src='./assets/socials/instagrambutton.png' border='0' alt='Instagram' /></a> 
 
 
-## Support
-You can support us by clicking the button below.
 
-<a href='https://www.buymeacoffee.com/poleengineering' target='_blank'><img height='46' style='border:0px;height:44px;' src='./assets/bmc.png' border='0' alt='Buy me a cofe' /></a>
 
 
 ### Huge Thanks and Credits to:
